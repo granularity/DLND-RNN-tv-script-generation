@@ -7,4 +7,4 @@ This is the third project in Udacity's [Deep Learning Nanodegree Program](https:
 In this project, I was able to generate a new Simpsons' script, a scene at Moe's Tavern, based on existing script data using recurrent neural networks (RNN).
 
 ### My Project Submission
-[Jupyter Notebook](https://github.com/granularity/RNN-tv-script-generation/blob/master/dlnd_tv_script_generation.ipynb)
+[Jupyter Notebook](/dlnd_tv_script_generation.ipynb)
